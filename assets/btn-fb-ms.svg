@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="136" height="30" viewBox="0 0 136 30" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="30" viewBox="0 0 136 30">
+
 <rect x="0.5" y="0.5" width="135" height="29" rx="8" fill="#0e1c3a" stroke="#1D9A8E" stroke-opacity="0.6"></rect>
 <text x="68" y="19.5" font-size="12.5" font-weight="600" fill="#7fd4cb" text-anchor="middle">f  Maritime.Studio</text>
 </svg>
