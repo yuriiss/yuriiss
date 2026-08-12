@@ -13,7 +13,7 @@
 
 [**X-Forge-Factory**](https://github.com/yuriiss/X-Forge-Factory) — operator console for Magnific across REST and MCP, with a job engine that reserves credits before it spends them, charges once, and gates large estimates behind a human.
 
-**erebros** — Multi-Agent Control Plane. Cloud and local models, CLI agents and provider aggregators behind one interface; everything runs on your machine. *Private.*
+[**EREBROS**](https://www.erebros.io) — Multi-Agent Control Plane. Cloud and local models, CLI agents and provider aggregators behind one interface; everything runs on your machine. *Private.*
 
 ## Focus
 
